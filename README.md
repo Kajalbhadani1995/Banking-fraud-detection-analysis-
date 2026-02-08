@@ -1,4 +1,4 @@
-# Banking-fraud-detection-analysis| Power BI | MySQL | Python |
+# Banking-fraud-detection-analysis| Power BI | MySQL | Python
 
 Built a Banking Fraud Detection project to analyze transaction patterns, identify high-risk activities, and uncover suspicious customer behavior using SQL, Python, and Power BI. The project focuses on detecting fraud trends based on transaction amount, payment method, customer demographics, and transaction timing to help improve financial risk monitoring and decision-making.
 
