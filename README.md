@@ -38,12 +38,11 @@ Built a Banking Fraud Detection project to analyze transaction patterns, identif
 
 ## 🛠 Skills & Tools Used
 
-• Python
+• Python 
 • Pandas
-• SQL (MySQL)
+• SQL (MySQL
 • Power BI
-• DAX
-• Power Query
+• DAX 
 • Data Cleaning & Transformation
 • Fraud Risk Analysis
 • Business Insight Generation
