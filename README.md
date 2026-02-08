@@ -2,6 +2,10 @@
 
 Built a Banking Fraud Detection project to analyze transaction patterns, identify high-risk activities, and uncover suspicious customer behavior using SQL, Python, and Power BI. The project focuses on detecting fraud trends based on transaction amount, payment method, customer demographics, and transaction timing to help improve financial risk monitoring and decision-making.
 
+# Dashboard | Power BI
+
+![image alt]()
+
 ## 🔑 Key Findings & Insights
 
 • A total of 482 high-risk transactions were identified, involving approximately $31M high-risk transaction amount, indicating significant potential fraud exposure.
