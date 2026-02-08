@@ -16,9 +16,13 @@ Built a Banking Fraud Detection project to analyze transaction patterns, identif
 
 ## End-to-End Banking Fraud Detection Analysis Using SQL, Python, and Power BI
 
-% fgg
+* I created a database and Imported the datadet in MySQL
+* Connected that database to python pandas.
 
-## Data Cleaning & Transformation 
+#### Data Cleaning & Transformation 
+
+* conveted Column names from uppercase to Lowercase
+* created column //age_group//
 
 
 
