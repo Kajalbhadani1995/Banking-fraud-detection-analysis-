@@ -4,7 +4,7 @@ Built a Banking Fraud Detection project to analyze transaction patterns, identif
 
 # Dashboard | Power BI
 
-![image alt]()
+![image alt](https://github.com/Kajalbhadani1995/Banking-fraud-detection-analysis-/blob/main/Banking%20fraud%20decetion%20analysis.png)
 
 ## 🔑 Key Findings & Insights
 
