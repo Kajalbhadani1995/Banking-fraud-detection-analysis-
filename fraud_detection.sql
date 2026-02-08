@@ -62,9 +62,6 @@ where transaction_risk = 'High Risk'
 group by customer_type
 order by higher_risk_transaction desc;
 
---  At what transaction amount range does fraud risk increase significantly?
-# Helps set alert thresholds.
-
 -- Which payment methods are associated with higher fraud risk?
 # Supports payment-level security decisions.
 
