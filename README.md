@@ -16,7 +16,7 @@ Built a Banking Fraud Detection project to analyze transaction patterns, identif
 
 ## End-to-End Banking Fraud Detection Analysis Using SQL, Python, and Power BI
 
-@ fgg
+% fgg
 
 ## Data Cleaning & Transformation 
 
