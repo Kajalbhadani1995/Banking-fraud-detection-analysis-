@@ -28,7 +28,7 @@ Built a Banking Fraud Detection project to analyze transaction patterns, identif
      * created logical column using def function in pandas.
      
 * After cleaning and transformation went back to MySQL using sqlalchemy and PyMySQL.
-* Wrote Quries in MySQL to solve the business problems.
+* Wrote Quries in MySQL to solve the business problems. 
 
 
 ## Dashboard | Power BI
