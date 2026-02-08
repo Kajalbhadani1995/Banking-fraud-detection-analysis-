@@ -1,4 +1,4 @@
-# Banking-fraud-detection-analysis| Power BI | MySQ | Python |
+# Banking-fraud-detection-analysis| Power BI | MySQL | Python |
 
 Built a Banking Fraud Detection project to analyze transaction patterns, identify high-risk activities, and uncover suspicious customer behavior using SQL, Python, and Power BI. The project focuses on detecting fraud trends based on transaction amount, payment method, customer demographics, and transaction timing to help improve financial risk monitoring and decision-making.
 
@@ -17,13 +17,18 @@ Built a Banking Fraud Detection project to analyze transaction patterns, identif
 ## End-to-End Banking Fraud Detection Analysis Using SQL, Python, and Power BI
 
 * I created a database and Imported the datadet in MySQL
-* Connected that database to python pandas.
+* Connected that database to python pandas using PyMySQL.
 
-#### Data Cleaning & Transformation 
+     #### Data Cleaning & Transformation 
 
-* conveted Column names from uppercase to Lowercase
-* created column //age_group//
-
+     * conveted Column names from uppercase to Lowercase.
+     * converted date column from object dtype to Datetime dtype.
+     * converted time column from object dtype to Tume dtype. 
+     * created column age_group.
+     * created logical column using def function in pandas.
+     
+* After cleaning and transformation went back to MySQL using sqlalchemy and PyMySQL.
+* Wrote Quries in MySQL to solve the business problems.
 
 
 ## Dashboard | Power BI
