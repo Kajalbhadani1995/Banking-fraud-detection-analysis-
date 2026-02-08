@@ -14,6 +14,14 @@ Built a Banking Fraud Detection project to analyze transaction patterns, identif
 * Which customers repeatedly appear in high-risk transactions?
 * Are certain age groups more vulnerable to risky transaction behavior?
 
+## End-to-End Banking Fraud Detection Analysis Using SQL, Python, and Power BI
+
+@ fgg
+
+## Data Cleaning & Transformation 
+
+
+
 ## Dashboard | Power BI
 
 ![image alt](https://github.com/Kajalbhadani1995/Banking-fraud-detection-analysis-/blob/main/Banking%20fraud%20decetion%20analysis.png)
