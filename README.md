@@ -2,7 +2,19 @@
 
 Built a Banking Fraud Detection project to analyze transaction patterns, identify high-risk activities, and uncover suspicious customer behavior using SQL, Python, and Power BI. The project focuses on detecting fraud trends based on transaction amount, payment method, customer demographics, and transaction timing to help improve financial risk monitoring and decision-making.
 
-# Dashboard | Power BI
+## Business Questions 
+
+* Which transactions show abnormal behavior based on amount, time, and frequency?
+* What percentage of total transactions fall under high-risk category?
+* at which time of day do most suspicious transaction occur?
+* Which customer type (New, Regular, Loyal) contributes most to high-risk transactions?
+* Do new accounts (low account tenure) show higher fraud risk compared to older accounts?
+* Which payment methods are associated with higher fraud risk?
+* Which cities show unusually high concentration of risky transactions?
+* Which customers repeatedly appear in high-risk transactions?
+* Are certain age groups more vulnerable to risky transaction behavior?
+
+## Dashboard | Power BI
 
 ![image alt](https://github.com/Kajalbhadani1995/Banking-fraud-detection-analysis-/blob/main/Banking%20fraud%20decetion%20analysis.png)
 
